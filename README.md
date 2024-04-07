@@ -1,0 +1,1 @@
+# My_stratego_project
