@@ -5,4 +5,4 @@ In here a documentation and representation of how to replicate the work will be 
 
 
 
-For downloading the data please refer to Strados2 on the Gravon platform, there you can manually download all the files. Remove the files that are note named "Classic", this includes "FreeClassic". After this running the contentextraction file will produce a new file that you can use to run in the neural net notebook for training the graph neural network.
+For downloading the data please refer to Strados2 on the Gravon platform, there you can manually download all the files. Remove the files that are note named "Classic", this includes "FreeClassic". After this running the content extraction file will produce a new file that you can use to run in the neural net notebook for training the graph neural network.
