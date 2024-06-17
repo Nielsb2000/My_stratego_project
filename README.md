@@ -11,4 +11,4 @@ Then, 2nd run the Strategy_analysis.ipynb in google collab, this will produce a 
 After running all 3 neural networks, each network will produce a .pth file at the end of the notebook, download this file and add it to the files folder in your drive. This file is the model weights and is used for evaluating the alternate deployments in the positions effects notebook. 
 Run this position effects notebook to get the results for evaluating the alternate deployments. 
 
-If all is done in the order stated above, no errors should be encountered and all results should be identical to my bachelor end project. If you'd like to read along my bachelor thesis is also on this github. 
+If all is done in the order stated above, no errors should be encountered and all results should be identical to my bachelor end project. 
