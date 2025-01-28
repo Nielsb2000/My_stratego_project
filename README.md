@@ -1,5 +1,8 @@
 # My_stratego_project
 
+For reference, please open my report for instructions;
+https://www.overleaf.com/read/trhbnpbykwwx#63111d
+
 
 In here; a documentation and representation of how to replicate the work will be stored, commited files are downloaded from google collab and stored here for public access.
 
